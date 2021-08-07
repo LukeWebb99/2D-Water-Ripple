@@ -13,4 +13,4 @@ Project uses <a href="https://github.com/microsoft/vcpkg" target="_blank"> vcpkg
 
 <h1>How to Use</h1>
 
-build x84 and run
+build x84 and run, clicking within the window will enable the effect.
